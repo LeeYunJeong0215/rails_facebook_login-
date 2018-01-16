@@ -27,7 +27,7 @@
    ```
 
 5. ```console
-   $ rails g devise User(모델명)
+   $ rails g devise Users(모델명)
    ```
 
 6. facebook_login\app\views\layouts\application.html.erb
